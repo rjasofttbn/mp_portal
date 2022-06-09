@@ -1,0 +1,72 @@
+/* @font-face{
+    font-family:'nikosh';
+    src:url('../public/fonts/NikoshBAN.ttf');
+} */
+/* body{
+    font-family: 'nikosh Roboto';
+} */
+
+.nav-sidebar .nav-treeview{
+    padding-left: 0;
+    border-left: 2px solid #4c5865;
+    margin-left: 0px;
+}
+.btn.white-text{color: #ffffff !important;}
+.btn.white-text a{color: #ffffff !important;}
+.btn.destroy{color: #ffffff !important;}
+.nav-sidebar .nav-item>.nav-link {font-size: 14px;}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #6a6a6a !important;
+    color: #fff;
+}
+
+.filter_button {
+    min-width: 60px;
+}
+
+.tab-pane {
+    margin-top: 20px;
+}
+
+.status_span {
+    padding: 9px;
+    font-size: 16px;
+}
+
+.comment_column{
+    white-space: nowrap;
+    max-width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.comment_section{
+    border-top: 1px dashed;
+    padding: 15px;
+}
+
+
+.table td, .table th {
+    vertical-align: middle;
+}
+.d-grid{display:grid;}
+
+
+#noticeCreateForm select.form-control-sm~.select2-container--default {
+    width: 100% !important;
+}
+
+#admin-dashboard{
+    background-image: url(../../background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 92vh;
+}
+.main-footer{
+    background: #1b2025;
+    border-top: 1px solid #1b2025;
+}
+

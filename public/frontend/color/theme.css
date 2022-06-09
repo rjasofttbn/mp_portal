@@ -1,0 +1,106 @@
+
+a:hover,
+.btn-outline-white:hover,
+.top-header.light_skin .header_list li a:hover, 
+.top-header.light_skin .contact_detail li a:hover, 
+.social_white .social_icons li a:hover, 
+.social_white.social_icons li a:hover,
+.navbar-expand-lg .navbar-nav > li > a.active, 
+.navbar-expand-lg .navbar-nav > li:hover > a,
+.dark_skin .navbar-expand-lg .navbar-nav .dropdown-menu li a.active, 
+.dark_skin .navbar-expand-lg .navbar-nav .dropdown-menu li a:hover, 
+.dark_skin .navbar-expand-lg .navbar-nav .dropdown-menu > ul > li:hover > a, 
+.dark_skin .navbar-expand-lg .navbar-nav .dropdown-menu > ul > .mega-menu-col ul > li:hover > a,
+.navbar-expand-lg .navbar-nav .dropdown-menu li a.active, 
+.navbar-expand-lg .navbar-nav .dropdown-menu li a:hover, 
+.navbar-expand-lg .navbar-nav .dropdown-menu > ul > li:hover > a, 
+.navbar-expand-lg .navbar-nav .dropdown-menu > ul > .mega-menu-col ul > li:hover > a,
+.ripple,
+.content_meta li a:hover,
+.blog_meta li a:hover,
+.blog_meta li i,
+.footer_dark .widget_links li a:hover, 
+.footer_dark .footer_link li a:hover, 
+.footer_dark .post_content h6 a:hover,
+.footer_dark .contact_info a:hover,
+.nav-tabs .nav-link.active, .nav-tabs .nav-link.active:hover,
+.search_form button:hover,
+.owl-theme .owl-nav [class*="owl-"]:hover,
+.program_info li {
+	color: #FFBC09;
+}
+
+.btn-default,
+.bg_default,
+.scrollup:hover,
+.page-item.active .page-link, 
+.page-item .page-link:hover,
+.sidebar .widget_title::before,
+.tags a:hover,
+.item_meta.duration,
+.course_rate .review_bar .rating,
+.grid_filter li a.current, .grid_filter li a:hover,
+.cat_style1 a:hover,
+.sub_heading::before,
+.carousel_style2 .carousel-control-next:hover, 
+.carousel_style2 .carousel-control-prev:hover {
+	background-color: #FFBC09;
+}
+
+.btn-default,
+.page-item.active .page-link, 
+.page-item .page-link:hover,
+.custome-checkbox .form-check-label::before,
+.custome-checkbox input[type="checkbox"] + .form-check-label::after,
+.tags a:hover,
+.fancy_box::before {
+	border-color: #FFBC09;
+}
+
+.btn-default:hover {
+	background-color: #DF9C00;
+}
+
+.btn-default:hover {
+	border-color: #DF9C00;
+}
+
+.text_default {
+	color: #FFBC09 !important
+}
+
+.overlay_bg_default_90:before {
+	background-color: rgba(255, 188, 9, 0.90);
+}
+.overlay_bg_default_80:before {
+	background-color: rgba(255, 188, 9, 0.80);
+}
+.overlay_bg_default_70:before,
+.instafeed li a::before {
+	background-color: rgba(255, 188, 9, 0.70);
+}
+.overlay_bg_default_60:before {
+	background-color: rgba(255, 188, 9, 0.60);
+}
+.overlay_bg_default_50:before {
+	background-color: rgba(255, 188, 9, 0.50);
+}
+.overlay_bg_default_40:before {
+	background-color: rgba(255, 188, 9, 0.40);
+}
+.overlay_bg_default_30:before {
+	background-color: rgba(255, 188, 9, 0.30);
+}
+.overlay_bg_default_20:before {
+	background-color: rgba(255, 188, 9, 0.20);
+}
+.overlay_bg_default_10:before {
+	background-color: rgba(255, 188, 9, 0.10);
+}
+
+.spinner, .spinner-small {
+	border-top-color: #FFBC09;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-link.active:hover {
+	border-bottom-color: #FFBC09;
+}

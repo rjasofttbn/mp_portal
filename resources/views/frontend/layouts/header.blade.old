@@ -1,0 +1,1874 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Meta -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="Anil z" name="author">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Department of Electrical and Electronic Engineering BUET">
+<meta name="keywords" content="">
+
+<!-- SITE TITLE -->
+<title>Department of Electrical and Electronic Engineering BUET</title>
+<!-- Favicon Icon -->
+<link rel="shortcut icon" type="image/x-icon" href="https://eee.buet.ac.bd/public/frontend/images/logo.png">
+<!-- Latest Bootstrap min CSS -->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/bootstrap/css/bootstrap.min.css">
+<!-- Animation CSS -->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/animate.css">	
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+<!-- Icon Font CSS -->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/ionicons.min.css">
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/themify-icons.css">
+<!-- FontAwesome CSS -->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/all.min.css">
+<!--- owl carousel CSS-->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/owlcarousel/css/owl.carousel.min.css">
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/owlcarousel/css/owl.theme.css">
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/owlcarousel/css/owl.theme.default.min.css">
+<!-- Magnific Popup CSS -->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/magnific-popup.css">
+<!-- Style CSS -->
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/style.css">
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/milumax.css">
+<link rel="stylesheet" href="https://eee.buet.ac.bd/public/frontend/css/responsive.css">
+<link rel="stylesheet" id="layoutstyle" href="https://eee.buet.ac.bd/public/frontend/color/theme.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<!-- Latest jQuery --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/jquery-1.12.4.min.js"></script> 
+
+
+
+</head>
+
+<body>
+
+
+
+
+<!-- LOADER -->
+
+<!-- START HEADER -->
+<!-- START HEADER -->
+<header class="header_wrap dark_skin">
+    <div class="top-header bg_linen light_skin">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-7">
+                    <div class="main-logo text-center">
+                        <img class="logo_dark img-responsive img-fluid" src="https://eee.buet.ac.bd/public/frontend/images/logo.png" alt="logo" />
+                    </div>
+                    <div class="tagline">
+                        <img class="logo_dark img-responsive img-fluid" src="https://eee.buet.ac.bd/public/frontend/images/logo.jpg" alt="logo" style="padding-left: 15px;width: 513px;height: 73px;" />
+                    </div>  
+                </div>
+                <div class="col-md-5">
+                    <nav class="navbar navbar-expand-lg"> 
+                        <ul class="navbar-nav">
+                            <li class="dropdown">
+                                <a class="btn btn-outline-danger" href="#" data-toggle="dropdown">Campus Life</a>
+                            </li>
+                            <li class="dropdown">
+                                <a class="btn btn-outline-danger" href="#" data-toggle="dropdown">Apply</a>
+                            </li>
+                            <li class="dropdown">
+                                <a class="btn btn-outline-danger" href="#" data-toggle="dropdown">Achievement</a>
+                            </li>
+                            <li class="dropdown">
+                                <a class="btn btn-outline-danger" href="#" data-toggle="dropdown">Alumni</a>
+                            </li>
+                        </ul>
+                        <ul class="navbar-nav attr-nav align-items-center">
+                            <li><a href="javascript:void(0);" class="nav-link search_trigger "><i class="ion-ios-search-strong"></i></a>
+                                <div class="search-overlay">
+                                    <div class="search_wrap">
+                                        <form>
+                                            <input type="text" placeholder="Search" class="form-control" id="search_input">
+                                            <button type="submit" class="search_icon"><i class="ion-ios-search-strong"></i></button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div> 
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg"> 
+            <a class="navbar-brand" href="https://eee.buet.ac.bd"> 
+                <img class="home-icon" src="https://eee.buet.ac.bd/public/frontend/logo/home.png">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="ion-android-menu"></span> </button>
+            <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                                                                                                      <li class="dropdown">
+                    <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">About</a>
+                    <div class="dropdown-menu">
+                        <ul> 
+                                                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/about">About Us</a></li>
+                                                                                                                                            <li><a class="dropdown-item nav-link nav_item" href="#">Why EEE</a></li>
+                                                                                                                                            <li><a class="dropdown-item nav-link nav_item" href="#">Achievements</a></li>
+                                                                                                                                            <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/more/gallery">Gallery</a></li>
+                                                                                </ul>
+                    </div>
+                </li>
+                                                                                   <li class="dropdown">
+                    <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">People</a>
+                    <div class="dropdown-menu">
+                        <ul> 
+                                                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/faculty">Faculty Present</a></li>
+                                                                                                                                            <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/faculty/onleave">Faculty On Leave</a></li>
+                                                                                </ul>
+                    </div>
+                </li>
+                                                                                   <li class="dropdown">
+                    <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Academics</a>
+                    <div class="dropdown-menu">
+                        <ul> 
+                                                                                                                <li class="dropdown"><a class="dropdown-toggler dropdown-item nav-link nav_item" href="#">Undergraduate</a>
+                                <div class="dropdown-menu">
+                                    <ul> 
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/http://ugadmission.buet.ac.bd">Admission</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/undergraduateprogram">Program</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/https://eeebuet.edupage.org/timetable">Class Routine</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/202002240724_Undergraduate_Academic_Calendar_January_2020%20%281%29.pdf">Academic Calendar</a></li>
+                                                                            </ul>
+                                </div>
+                            </li> 
+                                                                                                                                            <li class="dropdown"><a class="dropdown-toggler dropdown-item nav-link nav_item" href="#">Postgraduate</a>
+                                <div class="dropdown-menu">
+                                    <ul> 
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="#">Admission</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="#">Ordinance</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/postgraduatecourse">Courses</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/postgraduate-class-routine">Class Routine</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/202002240717_Postgraduate_Academic_Calendar_October_2019%20%281%29.pdf">Academic Calendar</a></li>
+                                                                            </ul>
+                                </div>
+                            </li> 
+                                                                                </ul>
+                    </div>
+                </li>
+                                                                                   <li class="dropdown">
+                    <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Research</a>
+                    <div class="dropdown-menu">
+                        <ul> 
+                                                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/more/research">Research Areas</a></li>
+                                                                                                                                            <li class="dropdown"><a class="dropdown-toggler dropdown-item nav-link nav_item" href="#">Publications</a>
+                                <div class="dropdown-menu">
+                                    <ul> 
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/msc-eng-thesis">M.Sc. Engg. &amp; M.Engg. Thesis</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/phd-thesis">Ph.D. Thesis</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/research-project">Research Project</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/research-papers">Research Papers</a></li>
+                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/ongoing-research-projects">Ongoing Research Projects</a></li>
+                                                                            </ul>
+                                </div>
+                            </li> 
+                                                                                </ul>
+                    </div>
+                </li>
+                                                                                  <li class="dropdown">
+                    <a class="nav-link" href="#">BRTC</a>
+                </li>
+                                                                                   <li class="dropdown">
+                    <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Announcement</a>
+                    <div class="dropdown-menu">
+                        <ul> 
+                                                                                                                <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/more/news/event">News and Events</a></li>
+                                                                                                                                            <li><a class="dropdown-item nav-link nav_item" href="https://eee.buet.ac.bd/sub-menu/all/notice">Notice Board</a></li>
+                                                                                </ul>
+                    </div>
+                </li>
+                                                                                  <li class="dropdown">
+                    <a class="nav-link" href="https://eee.buet.ac.bd/sub-menu/contact_us">Contact</a>
+                </li>
+                                                            </ul>
+        </div>
+    </nav>
+</div>
+</header>
+
+
+<!-- END HEADER --> 
+<!-- END HEADER -->
+
+<!-- NEWS -->
+<div class="news_ticker bg-light">
+    <div class="container">
+    <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+    	        <a href="https://eee.buet.ac.bd/read/more/2" target="_blank">Abrar Fahad</a> ||
+         
+                <a href="https://eee.buet.ac.bd/read/more/1" target="_blank">Abrar Fahad</a> ||
+         
+                <a href="https://eee.buet.ac.bd/notice/3" target="_blank">EDS DL program on 30th December 2019. Speaker – Dr. Gananath Das</a> ||
+         
+                <a href="https://eee.buet.ac.bd/notice/2" target="_blank">ICTP 2019 to be hosted by the Department of EEE from 28-30th December 2019</a> ||
+         
+                <a href="https://eee.buet.ac.bd/notice/1" target="_blank">EMBS DL program on 30th November 2019. Speaker – Dr. Carmen Poon</a> ||
+         
+                
+    </marquee>
+    </div>
+</div><!-- END NEWS -->
+<!-- START SECTION SLIDER -->
+<!-- START SECTION BANNER -->
+<section class="banner_section p-0 full_screen">
+    <div id="carouselExampleControls" class="banner_content_wrap carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+                        <div class="carousel-item { active } background_bg overlay_bg_50" data-img-src="https://eee.buet.ac.bd/public/upload/slider/20191208_1575805281.jpg">
+                <div class="banner_slide_content">
+                    <div class="container"><!-- STRART CONTAINER -->
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 col-sm-12 text-center">
+                            <div class="banner_content animation text_white" data-animation="fadeIn" data-animation-delay="0.8s">
+                                <h2 class="font-weight-bold animation text-uppercase" data-animation="zoomIn" data-animation-delay="1s">DEPARTMENT OF ELECTRICAL AND ELECTRONIC ENGINEERING BUET</h2>
+                                <p class="animation" data-animation="zoomIn" data-animation-delay="1.5s">Bangladesh University of Engineering and Technology Field</p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- END CONTAINER-->
+                </div>
+            </div>
+                                   <div class="carousel-item  background_bg overlay_bg_50" data-img-src="https://eee.buet.ac.bd/public/upload/slider/20191208_1575805298.jpg">
+                <div class="banner_slide_content">
+                    <div class="container"><!-- STRART CONTAINER -->
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 col-sm-12 text-center">
+                            <div class="banner_content animation text_white" data-animation="fadeIn" data-animation-delay="0.8s">
+                                <h2 class="font-weight-bold animation text-uppercase" data-animation="zoomIn" data-animation-delay="1s">BANGLADESH UNIVERSITY OF ENGINEERING AND TECHNOLOGY</h2>
+                                <p class="animation" data-animation="zoomIn" data-animation-delay="1.5s"><p>Bangladesh University of Engineering and Technology ECE Building<br></p></p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- END CONTAINER-->
+                </div>
+            </div>
+                                   <div class="carousel-item  background_bg overlay_bg_50" data-img-src="https://eee.buet.ac.bd/public/upload/slider/20191208_1575805306.jpg">
+                <div class="banner_slide_content">
+                    <div class="container"><!-- STRART CONTAINER -->
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 col-sm-12 text-center">
+                            <div class="banner_content animation text_white" data-animation="fadeIn" data-animation-delay="0.8s">
+                                <h2 class="font-weight-bold animation text-uppercase" data-animation="zoomIn" data-animation-delay="1s">WELCOME TO THE DEPARTMENT OF EEE</h2>
+                                <p class="animation" data-animation="zoomIn" data-animation-delay="1.5s"><p>Bangladesh University of Engineering and Technology<br></p></p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- END CONTAINER-->
+                </div>
+            </div>
+                               </div>
+        
+        <div class="carousel-nav">
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <i class="ion-chevron-left"></i>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <i class="ion-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</section>
+<!-- END SECTION BANNER --><!-- END SECTION SLIDER -->
+
+<!-- START SECTION ABOUT -->
+<section class="small_pt small_pb overflow-hidden">
+    <div class="container-fluid p-0">
+        <div class="row no-gutters align-items-center">
+            <div class="col-md-8">
+                <div class="box_shadow1 bg-white overlap_section padding_eight_all">
+                    <div class="animation animated fadeInLeft" data-animation="fadeInLeft" data-animation-delay="0.02s" style="animation-delay: 0.02s; opacity: 1;">
+                        <div class="heading_s1">
+                            <h2>Welcome To The Department of EEE</h2>
+                        </div>
+                        <p><p class="MsoNormal" style="text-align:justify;line-height:normal"><span style="font-family: &quot;Times New Roman&quot;, serif; letter-spacing: 0.75pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Bangladesh University of Engineering and
+Technology (BUET) has now eighteen teaching departments under five faculties,
+and among the five faculties, the Faculty of Electrical and Electronic
+Engineering (EEE) is the largest one which started its operation in the year
+1982 being formed through a process of segregating the Faculty of Engineering.</span><span style="font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p></p>
+
+                        <div class="text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.07s" style="animation-delay: 0.07s; opacity: 1;">
+
+                            <a href="https://eee.buet.ac.bd/about" class="btn btn-default">More About<i class="ion-ios-arrow-thin-right ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="animation animated fadeInRight" data-animation="fadeInRight" data-animation-delay="0.03s" style="animation-delay: 0.03s; opacity: 1;">
+                    <div class="overlay_bg_30 about_img z_index_minus1">
+                        <img class="w-100" src="https://eee.buet.ac.bd/public/frontend/images/download.jpg" alt="about_img">
+                    </div>
+                    <a href="https://www.youtube.com/embed/8ZdlGEh-rI4" class="video_popup video_play">
+                        <span class="ripple"><i class="ion-play ml-1"></i></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- START SECTION EVENT -->
+<section class="background_bg bg_linen bg_fixed">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="single_post">
+
+                    <div class="author_block">
+                        <div class="course_author">
+                            <div class="author_img">
+                                <img class="radius_all_5" src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576757884.jpg" alt="client_img1">
+                            </div>
+                            <div class="author_meta">
+                                <div class="author_intro">
+                                    <h3 style="font-size: 20px;">Head of The Department</h3>
+                                    <p><strong>Professor and Head</strong></p>
+                                    <!-- <h6>Department of EEE, BUET</h6> -->
+                                    <h6>Dr. Md. Shafiqul Islam</h6>
+                                    <h6>Department of EEE, BUET Dhaka-1205, Bangladesh.</h6>
+                                </div>
+
+                                <div class="author_desc mt-2">
+                                    <p><p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span style="font-family: &quot;Times New Roman&quot;, serif; letter-spacing: 0.75pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Department
+of Electrical and Electronic Engineering (EEE) is one of the most demanding and
+leading departments in Bangladesh University of Engineering and Technology
+(BUET). We have well-equipped modern laboratories where the students can learn
+and demonstrate their theoretical knowledge. The EEE department possesses
+knowledgeable and experienced teachers who are well-noted in their respective
+fields of teaching and research. Our teachers are also involved in many testing
+and development projects of the national as expert consultants. We always try
+to maintain a congenial environment among students and teachers in our
+department. The department of EEE...</span><span style="font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p></p>
+                                </div>
+                                <div class="text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.07s" style="animation-delay: 0.07s; opacity: 1;">
+                                    <div class="medium_divider"></div>
+                                    <a href="https://eee.buet.ac.bd/more/message" target="_blank" class="btn btn-default">More Message <i class="ion-ios-arrow-thin-right ml-1"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-12">
+                <div class="carousel_slider owl-carousel owl-theme" data-margin="10" data-loop="true" data-autoplay="true" data-nav="true" data-dots="false" data-responsive='{"0":{"items": "1"}, "767":{"items": "2"}, "1199":{"items": "4"}}'>
+
+                                        <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/66"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20200212_1581481489.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-s-shahnawaz-ahmed">Dr. S. Shahnawaz Ahmed</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">ssahmed@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 127</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01552 321 941</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://ssahmed.buet.ac.bd" target="_blank">http://ssahmed.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/2"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191218_1576645140.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-satya-prasad-majumder">Dr. Satya Prasad Majumder</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">spmajumder@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 321</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01819 198 050</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://spmajumder.buet.ac.bd" target="_blank">http://spmajumder.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/3"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191218_1576645234.png"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-saifur-rahman">Dr. Md. Saifur Rahman</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">saifur@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 221</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01195 229 919</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://saifur.buet.ac.bd" target="_blank">http://saifur.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/4"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191218_1576645309.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-pran-kanai-saha">Dr. Pran Kanai Saha</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">sahapk@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 323</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01550 300 513</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://sahapk.buet.ac.bd" target="_blank">http://sahapk.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/5"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191218_1576645484.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-quazi-deen-mohd-khosru">Dr. Quazi Deen Mohd Khosru</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">qdmkhosru@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 325</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01819 410 845</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://qdmkhosru.buet.ac.bd" target="_blank">http://qdmkhosru.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/1"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576757884.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-shafiqul-islam">Dr. Md. Shafiqul Islam</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">islams@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 327</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01815 007 759</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://islams.buet.ac.bd" target="_blank">http://islams.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/8"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576727994.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-kamrul-hasan">Dr. Md. Kamrul Hasan</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">khasan@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 225</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01753 072 171</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://khasan.buet.ac.bd" target="_blank">http://khasan.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/9"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728062.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-aynal-haque">Dr. Md. Aynal Haque</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">aynal@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 125</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01817 638 600</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://aynal.buet.ac.bd" target="_blank">http://aynal.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/53"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20200210_1581331807.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-a-b-m-harun-ur-rashid">Dr. A. B. M. Harun-Ur-Rashid</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">abmhrashid@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p></p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01710 852 886</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://abmhrashid.buet.ac.bd" target="_blank">http://abmhrashid.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/10"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728163.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-kazi-mujibur-rahman">Dr. Kazi Mujibur Rahman</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">kmr@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 322</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01675 325 576</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://kmr.buet.ac.bd" target="_blank">http://kmr.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/11"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728217.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-sharif-mohammad-mominuzzaman">Dr. Sharif Mohammad Mominuzzaman</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">momin@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 324</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01944 535 404</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://momin.buet.ac.bd" target="_blank">http://momin.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/12"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20200210_1581331961.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-mohammad-jahangir-alam">Dr. Mohammad Jahangir Alam</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">mjalam@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 429</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01911 356 905</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://mjalam.buet.ac.bd" target="_blank">http://mjalam.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/13"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728629.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-shah-alam">Dr. Md. Shah Alam</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">shalam@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 423</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01716 867 313</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://shalam.buet.ac.bd" target="_blank">http://shalam.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/14"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728701.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-ziaur-rahman-khan">Dr. Md. Ziaur Rahman Khan</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">zrkhan@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 427</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01715 498 400</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://zrkhan.buet.ac.bd" target="_blank">http://zrkhan.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/citations?user=PCeFn7gAAAAJ&amp;hl=en "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/15"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728751.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-mohammed-imamul-hassan-bhuiyan">Dr. Mohammed Imamul Hassan Bhuiyan</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">imamul@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 328</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01922 544 639</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://imamul.buet.ac.bd" target="_blank">http://imamul.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/citations?user=pn8CJdYAAAAJ&amp;hl=en "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/16"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728850.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-shaikh-anowarul-fattah">Dr. Shaikh Anowarul Fattah</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">fattah@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 426</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01937 800 854</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://fattah.buet.ac.bd" target="_blank">http://fattah.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/17"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728898.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-md-nasim-ahmed-dewan">Dr. Md. Nasim Ahmed Dewan</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">dewan@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 329</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01746 176 370</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://dewan.buet.ac.bd" target="_blank">http://dewan.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/18"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576728967.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-s-m-mahbubur-rahman">Dr. S. M. Mahbubur Rahman</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">mahbubur@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 326</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01823 933 902</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://mahbubur.buet.ac.bd" target="_blank">http://mahbubur.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/citations?user=VFe2plAAAAAJ&amp;hl=en "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/19"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20200210_1581321180.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-muhammad-anisuzzaman-talukder">Dr. Muhammad Anisuzzaman Talukder</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">anis@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 527</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01743 731 065</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://anis.buet.ac.bd" target="_blank">http://anis.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/citations?user=5qgvxokAAAAJ&amp;hl=en&amp;oi=ao "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="item">
+                        <div class="team_box team_style3 animation" data-animation="fadeInUp" data-animation-delay="0.04s">
+                            <div class="team_img">
+                                <a href="https://eee.buet.ac.bd/faculty/details/20"><img                                                                         src="https://eee.buet.ac.bd/public/upload/faculty/20191219_1576729126.jpg"
+                                                                         alt="team3"></a>
+                                </div>
+                                <div class="team_title radius_lbrb_10 text-center">
+                                    <h5 style="height: 50px"><a href="https://eee.buet.ac.bd/faculty/details/dr-celia-shahnaz">Dr. Celia Shahnaz</a></h5>
+                                    <span style="color: black;">Professor</span>
+                                </div>
+                                <div style="border-bottom: 1px solid #ddd;"></div>
+                                <div class="team_single_info">
+                                    <h6 class="text-center">Contact info</h6>
+                                    <ul class="contact_info list_none">
+
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-envelope" style="padding-left: 1px;"></i></span>
+                                            <a href="">celia@eee.buet.ac.bd</a>
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fas fa-home"></i></span>
+                                            <p>ECE 428</p>
+
+                                        </li>
+                                        
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-mobile-alt " style="padding-left: 2px;"></i></span>
+                                            <p>+88 01928 568 547</p>
+                                        </li>
+                                        <li>
+                                            <span style="max-width: 86"><i class="fa fa-globe"></i></span>
+                                            <a href="http://celia.buet.ac.bd" target="_blank">http://celia.buet.ac.bd</a>
+                                        </li>
+                                    </ul>
+
+                                    
+                                    <ul class="contact_info list_none">
+                                        <li>
+                                            <span style="max-width: 86"><i class="ai ai-google-scholar-square ai-1x"></i></span>
+                                            <a href=" https://scholar.google.com/ "  target="_blank">Google Scholar Link</a>                  
+                                        </li>
+                                    </ul>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.07s" style="animation-delay: 0.07s; opacity: 1;">
+                        <div class="medium_divider"></div>
+                        <a href="https://eee.buet.ac.bd/faculty" target="_blank" class="btn btn-default">More Faculty <i class="ion-ios-arrow-thin-right ml-1"></i></a>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    $(document).ready(function(){
+                        $(".carousel_slider").owlCarousel({
+                            nav: true,
+                            dots: false,
+                            autoplay : true,
+                            autoplayTimeout: 8000,
+                            navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+                            mouseDrag: true,
+                            touchDrag: false,
+                            responsive:{
+                                0:{
+                                    items:1
+                                },
+                                767:{
+                                    items:2
+                                },
+                                1199:{
+                                    items:4
+                                }
+                            }
+                        });
+                    });
+                </script>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- START SECTION COUNTER -->
+    <section class="background_bg bg_light_navy bg_fixed" data-img-src="https://eee.buet.ac.bd/public/frontend/images/pattern_bg4.png ">
+        <div class="container ">
+            <div class="row justify-content-center ">
+                <div class="col-xl-12 col-lg-12 ">
+                    <div class="text-center animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.01s " style="animation-delay: 0.01s; opacity: 1; ">
+                        <div class="heading_s1 text-center ">
+                            <h2 class="text-white ">About EEE</h2>
+                            <p>A place for learning, discovery, innovation, expression and discourse</p>
+                        </div> 
+                    </div>
+                </div> 
+            </div>
+            <div class="row ">
+
+                <div class="col-lg-4 col-md-4 col-6 ">
+                    <div class="box_counter counter_style2 text_white text-center animation " data-animation="fadeInUp " data-animation-delay="0.02s ">
+                        <div class="counter_icon ">
+                            <img src="https://eee.buet.ac.bd/public/frontend/images/counter_icon1.png " alt="counter_icon1 " />
+                        </div>
+                        <div class="counter_content ">
+                            <h3 class="counter_text "><span class=" ">1947</span></h3>
+                            <p>Opened in</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 ">
+                    <div class="box_counter counter_style2 text_white text-center animation " data-animation="fadeInUp " data-animation-delay="0.03s ">
+                        <div class="counter_icon ">
+                            <img src="https://eee.buet.ac.bd/public/frontend/images/counter_icon1.png " alt="counter_icon1 " />
+                        </div>
+                        <div class="counter_content ">
+                            <h3 class="counter_text "><span class="counter ">1,000</span>+</h3>
+                            <p>Students</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 ">
+                    <div class="box_counter counter_style2 text_white text-center animation " data-animation="fadeInUp " data-animation-delay="0.04s ">
+                        <div class="counter_icon ">
+                            <img src="https://eee.buet.ac.bd/public/frontend/images/counter_icon2.png " alt="counter_icon2 " />
+                        </div>
+                        <div class="counter_content ">
+                            <h3 class="counter_text "><span class="counter ">85</span>+</h3>
+                            <p>Faculty</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- END SECTION COUNTER -->
+    <!-- START SECTION EVENT -->
+    <section class="bg_gray ">
+        <div class="container ">
+            <div class="row ">
+                <div class="col-lg-8 ">
+                    <div class="text-center animation " data-animation="fadeInUp " data-animation-delay="0.01s ">
+                        <div class="heading_s1 text-center ">
+                            <div class="small_divider "></div>
+                            <h2>News & Events</h2>
+                        </div> 
+                    </div>
+                    <div class="row ">
+                                                <div class="col-lg-6 col-sm-6 ">
+                            <div class="content_box event_box box_shadow1 animation " data-animation="fadeInUp " data-animation-delay="0.02s ">
+                                <div class="content_img ">
+                                    <a href="https://eee.buet.ac.bd/read/more/2"><img src="https://eee.buet.ac.bd/public/upload/news/20191219_1576736945.jpg " alt="event_img1 "/></a>
+
+                                </div>
+                                <div class="content_desc bg-white ">
+                                    <h4 class="content_title "><a href="https://eee.buet.ac.bd/read/more/2">Abrar Fahad</a></h4>
+                                    <span class="post_date ">16 October, 19</span>
+                                    <p><p><span style="color: rgb(136, 136, 136); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; letter-spacing: 1px;">Doa Mahfil organized by the Department of EEE, praying for Abrar’s departed soul. .</span><br></p>
+                                        ...<a href="https://eee.buet.ac.bd/read/more/2 " class="text-capitalize "> <i class="ion-ios-arrow-thin-right ml-1 "></i> Read More </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="col-lg-6 col-sm-6 ">
+                            <div class="content_box event_box box_shadow1 animation " data-animation="fadeInUp " data-animation-delay="0.02s ">
+                                <div class="content_img ">
+                                    <a href="https://eee.buet.ac.bd/read/more/1"><img src="https://eee.buet.ac.bd/public/upload/news/20191219_1576736886.jpg " alt="event_img1 "/></a>
+
+                                </div>
+                                <div class="content_desc bg-white ">
+                                    <h4 class="content_title "><a href="https://eee.buet.ac.bd/read/more/1">Abrar Fahad</a></h4>
+                                    <span class="post_date ">09 October, 19</span>
+                                    <p><p style="text-align: justify;"><span style="color: rgb(136, 136, 136); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; letter-spacing: 1px;">Procession carried out by the faculty members of the Department of EEE, mourning the departed soul of our beloved student, Abrar Fahad. ..</span><br></p>
+                                        ...<a href="https://eee.buet.ac.bd/read/more/1 " class="text-capitalize "> <i class="ion-ios-arrow-thin-right ml-1 "></i> Read More </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-12 col-sm-12 ">
+                            <div class="text-center animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.07s " style="animation-delay: 0.07s; opacity: 1; ">
+                                <div class="medium_divider "></div>
+                                <a href="https://eee.buet.ac.bd/more/news/event" class="btn btn-default ">More News & Events <i class="ion-ios-arrow-thin-right ml-1 "></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 ">
+                    <div class="text-center animation " data-animation="fadeInUp " data-animation-delay="0.01s ">
+                        <div class="heading_s1 text-center ">
+                            <div class="small_divider "></div>
+                            <h2>Notice Board</h2>
+                        </div> 
+                    </div>
+                    <div class="row event_list ">
+                        <div class="col-md-12 ">
+                                                        <div class="content_box event_box box_shadow1 animation " data-animation="fadeInUp " data-animation-delay="0.03s ">
+                                <div class="event_date ">
+                                    <h5><span>18</span> December</h5>
+                                    <span class="event_time bg_default ">2019</span>
+                                </div>
+                                <div class="content_desc bg-white "> 
+                                    <h4 class="content_title "><a href="https://eee.buet.ac.bd/notice/3">EDS DL program on 30th December 2019. Speaker – Dr. Gananath Das</a></h4>
+
+                                </div>
+                            </div>
+                                                        <div class="content_box event_box box_shadow1 animation " data-animation="fadeInUp " data-animation-delay="0.03s ">
+                                <div class="event_date ">
+                                    <h5><span>11</span> December</h5>
+                                    <span class="event_time bg_default ">2019</span>
+                                </div>
+                                <div class="content_desc bg-white "> 
+                                    <h4 class="content_title "><a href="https://eee.buet.ac.bd/notice/2">ICTP 2019 to be hosted by the Department of EEE from 28-30th December 2019</a></h4>
+
+                                </div>
+                            </div>
+                            
+                            <div class="text-center animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.07s " style="animation-delay: 0.07s; opacity: 1; ">
+                                <div class="medium_divider "></div>
+                                <a href="https://eee.buet.ac.bd/all/notice" class="btn btn-default ">More Notice <i class="ion-ios-arrow-thin-right ml-1 "></i></a>
+                            </div>
+                        </div>    
+                    </div>
+
+                </div>
+            </div>
+        </div> 
+    </section>
+
+    <section class=" ">
+        <div class="container ">
+            <div class="row justify-content-center ">
+                <div class="col-xl-12 col-lg-12 ">
+                    <div class="text-center ">
+                        <div class="heading_s1 text-center milumax-border ">
+                            <h2 class="post__title has-no-space-below" style="height: 0"><span style="position: relative;background: white;z-index: 1;">Research</span></h2>
+                        </div>
+                        <p class="title p-post "></p>
+
+                        <div class="course_list" style="padding: 22px 0px 53px 0px;border: 4px solid #7b0100;">
+                            <div class="row ">
+                                                                <div class="col-md-12 ">
+                                    <div class="content_box box_shadow1 animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.02s " style="animation-delay: 0.02s; opacity: 1; ">
+                                        <div class="content_img ">
+                                            <a href="https://eee.buet.ac.bd/research/detail/7"><img src="https://eee.buet.ac.bd/public/upload/research/20200227_1582799787.jpg " alt="Biomedical-Signal-Processing " width="100px" height="150px"></a>
+                                        </div>
+                                        
+                                             <div class="content_desc ">
+                                            <h4 class="content_title "><a href="#">Power and Energy Systems</a></h4>
+                                                <p>Dr. S. Shahnawaz Ahmed, Dr. Md. Jahangir Alam, Dr. Abdul Hasib Chowdhury, Dr. Md. Shamim Reza, Dr. Nahid-Al-Masood<br></p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                                                    <div class="col-md-12 ">
+                                    <div class="content_box box_shadow1 animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.02s " style="animation-delay: 0.02s; opacity: 1; ">
+                                        <div class="content_img ">
+                                            <a href="https://eee.buet.ac.bd/research/detail/6"><img src="https://eee.buet.ac.bd/public/upload/research/20200227_1582799795.png " alt="Biomedical-Signal-Processing " width="100px" height="150px"></a>
+                                        </div>
+                                        
+                                             <div class="content_desc ">
+                                            <h4 class="content_title "><a href="#">Smart Grid and Power Transmission</a></h4>
+                                                <p>Dr. S. Shahnewaz Ahmed, Dr. Md. Shamim Reza, Dr. Nahid-Al-Masood<br></p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                                                    <div class="col-md-12 ">
+                                    <div class="content_box box_shadow1 animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.02s " style="animation-delay: 0.02s; opacity: 1; ">
+                                        <div class="content_img ">
+                                            <a href="https://eee.buet.ac.bd/research/detail/8"><img src="https://eee.buet.ac.bd/public/upload/research/20200227_1582799802.jpg " alt="Biomedical-Signal-Processing " width="100px" height="150px"></a>
+                                        </div>
+                                        
+                                             <div class="content_desc ">
+                                            <h4 class="content_title "><a href="#">Power Electronics</a></h4>
+                                                <p>Dr. Kazi Mujibur Rahman, Dr. Md. Ziaur Rahman, Dr. Md. Jahangir Alam, Dr. Md. Shamim Reza, Arik Subhana<br></p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                                                    <div class="col-md-12 ">
+                                    <div class="content_box box_shadow1 animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.02s " style="animation-delay: 0.02s; opacity: 1; ">
+                                        <div class="content_img ">
+                                            <a href="https://eee.buet.ac.bd/research/detail/9"><img src="https://eee.buet.ac.bd/public/upload/research/20200227_1582799811.jpg " alt="Biomedical-Signal-Processing " width="100px" height="150px"></a>
+                                        </div>
+                                        
+                                             <div class="content_desc ">
+                                            <h4 class="content_title "><a href="#">Renewable Energy Systems</a></h4>
+                                                <p>Dr. Md. Ziaur Rahman, Dr. Md. Jahangir Alam, Dr. Nahid-Al-Masood, Munia Ferdoushi<br></p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.07s " style="animation-delay: 0.07s; opacity: 1; ">
+                            <div class="medium_divider "></div>
+                            <a href="https://eee.buet.ac.bd/more/research" class="btn btn-default rounded-0 ">More About Research <i class="ion-ios-arrow-thin-right ml-1 "></i></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+
+        <!-- START SECTION GALLERY -->
+        <section class="bg_light_navy background_bg " data-img-src="https://eee.buet.ac.bd/public/frontend/images/pattern_bg2.png " style="background-image: url(https://eee.buet.ac.bd/public/frontend/images/pattern_bg2.png); background-position: center center; background-size: cover; ">
+            <div class="container "> 
+                <div class="row justify-content-center ">
+                    <div class="col-xl-12 col-lg-12 ">
+                        <div class="text-center animation " data-animation="fadeInUp " data-animation-delay="0.01s ">
+                            <div class="heading_s1 text-center ">
+                                <h2 class="text-white ">Our Gallery</h2>
+                            </div>
+                            <p class="title text-white "></p>
+                            <div class="small_divider "></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-md-12 ">
+                        <ul class="grid_container gutter_medium grid_col3 animation " data-animation="fadeInUp " data-animation-delay="0.03s ">
+                            <li class="grid-sizer "></li>
+                            <!-- START PORTFOLIO ITEM -->
+                                                        <li class="grid_item ">
+                                <div class="gallery_item radius_all_10 ">
+                                    <a href="# " class="image_link ">
+                                        <img src="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575976122.jpg " alt="image ">
+                                    </a>
+                                    <div class="gallery_content ">
+                                        <div class="link_container ">
+                                            <a href="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575976122.jpg " class="image_popup "><span class="ripple "><i class="ion-image "></i></span></a>
+                                        </div>
+                                        <div class="text_holder text_white ">
+                                            <h5>Gallery Title</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="grid_item ">
+                                <div class="gallery_item radius_all_10 ">
+                                    <a href="# " class="image_link ">
+                                        <img src="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975403.jpg " alt="image ">
+                                    </a>
+                                    <div class="gallery_content ">
+                                        <div class="link_container ">
+                                            <a href="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975403.jpg " class="image_popup "><span class="ripple "><i class="ion-image "></i></span></a>
+                                        </div>
+                                        <div class="text_holder text_white ">
+                                            <h5>Gallery Title</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="grid_item ">
+                                <div class="gallery_item radius_all_10 ">
+                                    <a href="# " class="image_link ">
+                                        <img src="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975395.jpg " alt="image ">
+                                    </a>
+                                    <div class="gallery_content ">
+                                        <div class="link_container ">
+                                            <a href="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975395.jpg " class="image_popup "><span class="ripple "><i class="ion-image "></i></span></a>
+                                        </div>
+                                        <div class="text_holder text_white ">
+                                            <h5>Gallery Title</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="grid_item ">
+                                <div class="gallery_item radius_all_10 ">
+                                    <a href="# " class="image_link ">
+                                        <img src="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975388.jpg " alt="image ">
+                                    </a>
+                                    <div class="gallery_content ">
+                                        <div class="link_container ">
+                                            <a href="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975388.jpg " class="image_popup "><span class="ripple "><i class="ion-image "></i></span></a>
+                                        </div>
+                                        <div class="text_holder text_white ">
+                                            <h5>Gallery Title</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="grid_item ">
+                                <div class="gallery_item radius_all_10 ">
+                                    <a href="# " class="image_link ">
+                                        <img src="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975381.jpg " alt="image ">
+                                    </a>
+                                    <div class="gallery_content ">
+                                        <div class="link_container ">
+                                            <a href="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975381.jpg " class="image_popup "><span class="ripple "><i class="ion-image "></i></span></a>
+                                        </div>
+                                        <div class="text_holder text_white ">
+                                            <h5>Gallery Title</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="grid_item ">
+                                <div class="gallery_item radius_all_10 ">
+                                    <a href="# " class="image_link ">
+                                        <img src="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975373.jpg " alt="image ">
+                                    </a>
+                                    <div class="gallery_content ">
+                                        <div class="link_container ">
+                                            <a href="https://eee.buet.ac.bd/public/upload/gallery/20191210_1575975373.jpg " class="image_popup "><span class="ripple "><i class="ion-image "></i></span></a>
+                                        </div>
+                                        <div class="text_holder text_white ">
+                                            <h5>Gallery Title</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            
+                            <!-- END PORTFOLIO ITEM -->
+                        </ul>
+                    </div>
+                    <div class="col-12 ">
+                        <div class="text-center animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.07s " style="animation-delay: 0.07s; opacity: 1; ">
+                            <div class="medium_divider "></div>
+                            <a href="https://eee.buet.ac.bd/more/gallery" class="btn btn-default ">More Gallery <i class="ion-ios-arrow-thin-right ml-1 "></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- END SECTION GALLERY -->
+
+        <!-- START SECTION TESTIMONIAL -->
+
+        <!-- END SECTION TESTIMONIAL -->
+        <section class="background_bg bg_fixed ">
+            <div class="text-center animation animated fadeInUp " data-animation="fadeInUp " data-animation-delay="0.01s " style="animation-delay: 0.01s; opacity: 1; ">
+                <div class="heading_s1 text-center ">
+                    <h2>Get In Touch</h2>
+                </div>
+                <p></p>
+                <div class="small_divider "></div>
+            </div>
+            <div class="contact_map map_radius_rtrb overflow-hidden h-100 " style="height: 150px !important ">
+                <iframe src="//www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.578430063007!2d90.38622601498089!3d23.726744084600977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9216af99d31fde46!2sDepartment%20of%20Electrical%20and%20Electronic%20Engineering%20BUET!5e0!3m2!1sen!2sbd!4v1574858123671!5m2!1sen!2sbd " frameborder="0 " style="border:0; " allowfullscreen=" "></iframe>
+            </div>
+        </section>
+
+        <!-- START FOOTER -->
+        <footer class="bg_light_navy footer_dark">
+    <div class="top_footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-sm-8 mb-4 mb-lg-0">
+                    <div class="footer_logo">
+                        <a href="index.html"><img alt="logo" src="https://eee.buet.ac.bd/public/frontend/images/banner/black-logo.svg"></a>
+                    </div>
+                    
+                    <ul class="contact_info contact_info_light list_none">
+                        <li>
+                            <i class="fa fa-map-marker-alt "></i>
+                            <address><p>BUET, ECE Building, West Palashi Campus, Dhaka 1000</p></address>
+                        </li>
+                        <li>
+                            <i class="fa fa-envelope"></i>
+                            <a href="#">headeee@eee.buet.ac.bd</a>
+                        </li>
+                        <li>
+                            <i class="fa fa-mobile-alt"></i>
+                            <p>02-9668054</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-sm-4 mb-4 mb-lg-0">
+                    <h6 class="widget_title">Useful Links</h6>
+                    <ul class="list_none widget_links links_style2">
+                        <li><a href="https://eee.buet.ac.bd/about">About Us</a></li>
+                        <li><a href="https://eee.buet.ac.bd/faculty">Faculty</a></li>
+                        
+                        <li><a href="https://eee.buet.ac.bd/more/gallery">Gallery</a></li>
+                        <li><a href="https://eee.buet.ac.bd/contact_us">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                    <h6 class="widget_title">Recent News</h6>
+                    <ul class="recent_post border_bottom_dash list_none">
+                                                <li>
+                            <div class="post_footer">
+                                
+                                <div class="post_content">
+                                    <h6><a href="https://eee.buet.ac.bd/read/more/2">Abrar Fahad</a></h6>
+                                    <span class="post_date">16 October, 2019</span>
+                                </div>
+                            </div>
+                        </li>
+                                                <li>
+                            <div class="post_footer">
+                                
+                                <div class="post_content">
+                                    <h6><a href="https://eee.buet.ac.bd/read/more/1">Abrar Fahad</a></h6>
+                                    <span class="post_date">09 October, 2019</span>
+                                </div>
+                            </div>
+                        </li>
+                                                
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <h6 class="widget_title">Recent Notice</h6>
+                    <ul class="recent_post border_bottom_dash list_none">
+                                                <li>
+                            <div class="post_footer">
+                                
+                                <div class="post_content">
+                                    <h6><a href="https://eee.buet.ac.bd/notice/3">EDS DL program on 30th December 2019. Speaker – Dr. Gananath Das</a></h6>
+                                    <span class="post_date">18 December, 2019</span>
+                                </div>
+                            </div>
+                        </li>
+                                                <li>
+                            <div class="post_footer">
+                                
+                                <div class="post_content">
+                                    <h6><a href="https://eee.buet.ac.bd/notice/2">ICTP 2019 to be hosted by the Department of EEE from 28-30th December 2019</a></h6>
+                                    <span class="post_date">11 December, 2019</span>
+                                </div>
+                            </div>
+                        </li>
+                                                
+                       
+                    </ul>
+                    <h6 class="widget_title">Follow Us</h6>
+                    <ul class="list_none social_icons social_white social_style1">
+                        <li><a href="https://www.facebook.com/" target="_blank"><i class="ion-social-facebook"></i></a></li>
+                        <li><a href="http://www.twitter.com/" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                        <li><a href="http://aboutme.google.com/" target="_blank"><i class="ion-social-googleplus"></i></a></li>
+                        <li><a href="http://www.youtube.com/" target="_blank"><i class="ion-social-youtube-outline"></i></a></li>
+                        <li><a href="http://www.instagram.com/" target="_blank"><i class="ion-social-instagram-outline"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom_footer header_wrap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <p class="copyright m-md-0 text-center text-md-left">Copyrights © 2019 Nanosoft.  All rights reserved.</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- END FOOTER        <!-- END FOOTER -->
+        
+
+
+
+<a href="#" class="scrollup" style="display: none;"><i class="ion-ios-arrow-up"></i></a> 
+
+<!-- jquery-ui --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/jquery-ui.js"></script>
+<!-- popper min js --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/popper.min.js"></script>
+<!-- Latest compiled and minified Bootstrap --> 
+<script src="https://eee.buet.ac.bd/public/frontend/bootstrap/js/bootstrap.min.js"></script> 
+<!-- owl-carousel min js  --> 
+<script src="https://eee.buet.ac.bd/public/frontend/owlcarousel/js/owl.carousel.min.js"></script> 
+<!-- magnific-popup min js  --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/magnific-popup.min.js"></script> 
+<!-- waypoints min js  --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/waypoints.min.js"></script> 
+<!-- parallax js  --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/parallax.js"></script> 
+<!-- countdown js  --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/jquery.countdown.min.js"></script> 
+<!-- jquery.counterup.min js --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/jquery.counterup.min.js"></script>
+<!-- imagesloaded js --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/imagesloaded.pkgd.min.js"></script>
+<!-- isotope min js --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/isotope.min.js"></script>
+<!-- jquery.parallax-scroll js -->
+<script src="https://eee.buet.ac.bd/public/frontend/js/jquery.parallax-scroll.js"></script>
+<!-- scripts js --> 
+<script src="https://eee.buet.ac.bd/public/frontend/js/scripts.js"></script>
+
+</body>
+
+</html>

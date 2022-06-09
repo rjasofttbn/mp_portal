@@ -1,0 +1,63 @@
+@extends('backend.layouts.app')
+@section('content')
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h4 class="m-0 text-dark">@lang('Hostel Application Management')</h4>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="{{route('admin.accommodation.hostel_application.index') }}">@lang('Home')</a></li>
+                    <li class="breadcrumb-item active">@lang('Residential Application (Hostel)')</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<div class="content">
+    <div class="col-md-12">
+        @if($user->usertype =='speaker' || $user->usertype =='staff')
+                <div class="card"style="margin-top: 171px; text-align:center;">
+                <div class="card-body">
+                <h3 style="color: red;">Only, MP Can Submit Appliction...</h3>
+            </div>
+        </div>
+           @elseif($user->usertype =='mp' || $user['usertype']=='ps')
+                <div class="card">
+                <div class="card-body">
+                <form id="application_type_id" class="form-horizontal" action="{{ route('admin.accommodation.hostel_application.create') }}" method="get">
+                    <div class="form-group row">
+                        <div class="col-sm-6">
+                            <label class="control-label" for="application_type_id">@lang('Select Application Type')<span
+                                    class="required text-danger">*</span></label>
+                            <select id="application_type_id" name="application_type_id"
+                                    class="form-control form-control-sm select2" required>
+                                <option value="">@lang('Select Application')</option>
+                                    @if (isset($applicationTypes) && count($applicationTypes) > 0)
+                                        @foreach ($applicationTypes as $data)
+                                            <option value="{{ $data->id }}">{{ Lang::get($data->subject) }}</option>
+                                        @endforeach
+                                    @endif
+                            </select>
+                        </div>
+                        <div class="col-sm-3">
+                            <button type="submit" class="btn btn-info btn-sm"
+                                    style="margin-top:28px">
+                                @lang('GO')
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+          @endif               
+    </div>
+</div>
+</div>
+@endsection
+
+
+
